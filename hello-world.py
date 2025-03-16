@@ -1,4 +1,5 @@
-#Samir_Komilov
+#bismillah
+#muallif:Samer_Komilov
 #15.02.2025
 #1-Dars
 print("Assalomu alaykum vasila")
