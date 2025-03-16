@@ -1,3 +1,4 @@
+#bismillah
 #Sana:11.03.2025
 #Muallif:Samer Komilov
 #Loyihalar ustida ishlash
