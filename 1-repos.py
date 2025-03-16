@@ -1,5 +1,5 @@
 #bismillah
-#sana: 04.03.2025
+#sana: 15.03.2025 #yangilandi...
 #Muallif:Samer-Komilov
 #6-dars Amaliyot
 #Foydalanuvchi kiritgan tug'ilgan yildan kelib chiqib yoshini aniqlovchi dasturdir!
