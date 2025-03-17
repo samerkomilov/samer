@@ -1,4 +1,6 @@
-
+#bismillah
+#Sana:04.03.2025
+#Muallif: Samer komilov
 
 #a = 11
 #b = 15

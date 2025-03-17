@@ -1,4 +1,5 @@
-
+#bismillah
+#muallif:Samer-Komilov
 # 1 dan n gacha bo'lgan juft sonlar yig‘indisini hisoblash
 n = int(input("n ni kiriting: "))
 

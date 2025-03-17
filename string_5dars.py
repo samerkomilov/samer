@@ -3,45 +3,44 @@
 #Muallif:Samer-komilov
 #5-dars:STRING(matn bilan ishlash)
 
-#davlat='misr'
-#shahar='qohira'
+davlat='misr'
+shahar='qohira'
 
-#malumot='Vasila hozir 🥲'
-#print(malumot)
+malumot='Vasila hozir 🥲'
+print(malumot)
 
 #STRING METODLAR USTIDA ISHLASH 
 
-#ism='Samer'
-#familiya='Komilov'
-#otasining_ismi= 'Sobir ugli'
-#print(ism+familiya)
-#print(ism + ' ' + familiya)
+ism='Samer'
+familiya='Komilov'
+otasining_ismi= 'Sobir ugli'
+print(ism+familiya)
+print(ism + ' ' + familiya)
 
 #f-string
 
-#ism_sharif = f"{ism} {familiya}"
-#print(ism_sharif)
+ism_sharif = f"{ism} {familiya}"
+print(ism_sharif)
 
-#print(f"Assalomu Alaykum mening ismim Samer. Vasila kirish xat sizga>>>{familiya} {ism} {otasining_ismi}dan!")
+print(f"Assalomu Alaykum mening ismim Samer. Vasila kirish xat sizga>>>{familiya} {ism} {otasining_ismi}dan!")
 
-#print("Farangiz \nVasila")
-#print("rasul \tabdulaziz")
+print("Farangiz \nVasila")
+print("rasul \tabdulaziz")
 
 
 #MAHSUS BELGILAR
 
-#ism ='farangiz'
-#familiya='Baxtiyorova'
-#print(ism.upper())
-#print(familiya.capitalize() + ' ' + ism.capitalize())
-#print(ism.title())
-#print(ism.lower())
+ism ='samer'
+familiya='Komilov'
+print(ism.upper())
+print(familiya.capitalize() + ' ' + ism.capitalize())
+print(ism.title())
+print(ism.lower())
 
-#meva = "    olma    "
-#print(meva)
-#print("men " + meva.lstrip() + " yaxshi ko'raman")
-#print("men " + meva.rstrip() + " yaxshi ko'raman")
-#print("men " + meva.strip() + " yaxshi ko'raman")
+meva = "    olma    "
+print(meva)
+print("men " + meva.lstrip() + " yaxshi ko'raman")
+print("men " + meva.rstrip() + " yaxshi ko'raman")#print("men " + meva.strip() + " yaxshi ko'raman")
 
 #INPUT
 
