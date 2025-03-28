@@ -1,6 +1,6 @@
 #bismillah
 #muallif: Samer Komilov
-#Dars: Lug'atlar ustida ishlash
+#Dars: def:funksiyalar yaratish
 #sana: 24.03.2025
 
 #from datetime import datetime
